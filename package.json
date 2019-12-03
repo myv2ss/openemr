@@ -19,23 +19,7 @@
   "author": "d3sandoval",
   "license": "GNU GPL",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "browser-sync": "^2.24.4",
-    "del": "^3.0.0",
-    "glob": "^7.1.2",
-    "gulp": "^3.9.1",
-    "gulp-append-prepend": "^1.0.4",
-    "gulp-autoprefixer": "^5.0.0",
-    "gulp-csso": "^3.0.1",
-    "gulp-if": "^2.0.2",
-    "gulp-rename": "^1.2.3",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-watch": "^5.0.1",
-    "minimist": "^1.2.0",
-    "napa": "^3.0.0",
-    "replace-in-file": "^3.4.2",
-    "run-sequence": "^2.2.1"
+    
   },
   "dependencies": {
     "angular": "1.5.8",
@@ -78,7 +62,25 @@
     "select2-bootstrap-theme": "0.1.0-beta.10",
     "summernote": "0.8.2",
     "underscore": "1.8.3",
-    "validate.js": "0.12.0"
+    "validate.js": "0.12.0",
+      
+      "babel-core": "^6.26.3",
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-append-prepend": "^1.0.4",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-watch": "^5.0.1",
+    "minimist": "^1.2.0",
+    "napa": "^3.0.0",
+    "replace-in-file": "^3.4.2",
+    "run-sequence": "^2.2.1"
   },
   "napa": {
     "bootstrap-sidebar": "https://github.com/asyraf9/bootstrap-sidebar/archive/v0.2.2.tar.gz",
