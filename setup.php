@@ -94,7 +94,7 @@ function recursive_writable_directory_test($dir)
 }
 
 // Include standard libraries/classes
-require_once dirname(__FILE__) ."/vendor/autoload.php";
+//require_once dirname(__FILE__) ."/vendor/autoload.php";
 
 use OpenEMR\Common\Utils\RandomGenUtils;
 
